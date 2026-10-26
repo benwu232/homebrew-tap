@@ -1,6 +1,6 @@
 cask "epicyclo" do
-  version "1.0.0"
-  sha256 "be66a96b1c3a7966f5a0e2c108c8a322dcd1456fe18848ac1ab60f19f0f4edcc"
+  version "1.0.1"
+  sha256 "4d3991580ab8292f7a03dc86d5f4c0ddc14c073912c5b3a9be20b3628c93b006"
 
   url "https://github.com/benwu232/epicyclo/releases/download/v#{version}/Epicyclo_v#{version}.dmg"
   name "Epicyclo"
