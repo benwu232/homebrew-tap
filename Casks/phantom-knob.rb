@@ -1,6 +1,6 @@
 cask "phantom-knob" do
-  version "2.3.11"
-  sha256 "ce0adf1c903add8f24833f321d66f395d85173eab77b81f30f1d7ce9488b0d8d"
+  version "2.4.1"
+  sha256 "980ceeb48e1dffb123adfe8dd78a691f73e8f3c665c0ad7f84f3fb131d826313"
 
   url "https://github.com/benwu232/PhantomKnob/releases/download/v#{version}/PhantomKnob_v#{version}.dmg"
   name "Phantom Knob"
